@@ -16,7 +16,7 @@ public class ReverseEvenWords {
 						char[] charArray=str.toCharArray();
 						for(int j=charArray.length-1;j>=0;j--) {
 							System.out.println(charArray[j]);
-							System.out.println("charater");
+							System.out.println("charaters");
 						}
 						System.out.println(" ");
 					}
